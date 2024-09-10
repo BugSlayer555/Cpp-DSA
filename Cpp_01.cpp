@@ -38,7 +38,7 @@ int main(){
 
 
 //__________Char and String______________
-#include<bits/stdc++.h>
+/*#include<bits/stdc++.h>
 using namespace std;
 int main(){
     char ch;
@@ -52,4 +52,4 @@ int main(){
     getline(cin,str);
     cout<<"Character is: "<< ch <<endl;
     cout<<"String is: "<< str << endl;
-}
+}*/
