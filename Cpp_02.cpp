@@ -1,5 +1,5 @@
 //________________If and Else___________________
-#include<bits/stdc++.h>
+/*#include<bits/stdc++.h>
 using namespace std;
 int main(){
     int age;
@@ -11,4 +11,4 @@ int main(){
     else{
         cout<<"Your are not allowed.";
     }
-}
+}*/
