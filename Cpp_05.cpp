@@ -59,3 +59,32 @@ int main(){
         cout << arr[i] << endl;
     }
 }*/
+
+
+
+
+
+//____________2D Array with Loop___________
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int RowSize,ColumnSize;
+    cout<<"Enter Row Size: ";
+    cin>>RowSize;
+    cout<<"Enter Column Size: ";
+    cin>>ColumnSize;
+    int Arr[RowSize][ColumnSize];
+    cout<<"Enter Matrix Values: "<<endl;
+    for(int i=0; i<RowSize; i++){
+        for(int j=0; j<ColumnSize; j++){
+            cin>>Arr[i][j];
+        }
+    }
+    cout<<"Matrix is ["<<RowSize<<"]x["<<ColumnSize<<"]: "<<endl;
+    for(int i=0; i<RowSize; i++){
+        for(int j=0; j<ColumnSize; j++){
+            cout<<Arr[i][j]<<" ";
+        }
+        cout<<endl;
+    }
+}
