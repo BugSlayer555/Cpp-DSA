@@ -51,7 +51,7 @@ int main(){
 
 
 //________Return Function(Int) With Parameter__________
-#include<bits/stdc++.h>
+/*#include<bits/stdc++.h>
 using namespace std;
 int Sum(int num1, int num2){
     return num1+num2;
@@ -64,4 +64,4 @@ int main(){
     cin>>num2;
     int result = Sum(num1,num2);
     cout<<"Total Sum of Both Number is: "<<result;
-}
+}*/
