@@ -45,11 +45,11 @@ int main(){
     string str;
     cout<<"Enter character: ";
     cin>>ch;
-    cin.ignore();
+    // cin.ignore();
     cout<<"Enter String: ";
     //If we use only cin to take input after space on that line it will not take anything so we use getline insted of cin
-    // cin>>str;
-    getline(cin,str);
+    cin>>str;
+    // getline(cin,str);
     cout<<"Character is: "<< ch <<endl;
     cout<<"String is: "<< str << endl;
 }*/

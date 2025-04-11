@@ -20,7 +20,7 @@ int main(){
 
 
 //___________Pass By Reference_______________
-#include<bits/stdc++.h>
+/*#include<bits/stdc++.h>
 using namespace std;
 void doSomething(int &num){
     cout<< num <<endl;
@@ -34,4 +34,8 @@ int main(){
     doSomething(num);
     cout<< num << endl;
     return 0;
-}
+}*/
+
+
+
+

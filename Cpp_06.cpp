@@ -64,4 +64,5 @@ int main(){
     cin>>num2;
     int result = Sum(num1,num2);
     cout<<"Total Sum of Both Number is: "<<result;
+
 }*/
